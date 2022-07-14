@@ -16,3 +16,4 @@ git log //to show all histories changes on your project
 git checkout [id] // id of commit to come back to this commit id
 git checkout -b [name of branch] //to create new branch and switch to this new branch
 git branch //to list all branches
+git pull --verbose
